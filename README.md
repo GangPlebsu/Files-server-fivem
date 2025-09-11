@@ -1,2 +1,2 @@
-# Files-server-fivem
+# Files-server-FiveM
 Files for one FiveM server!!
